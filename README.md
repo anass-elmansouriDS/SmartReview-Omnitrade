@@ -12,34 +12,6 @@ SmartReview is a sentiment analysis project designed to help Omnitrade stakehold
 
 ***
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/anass-elmansouriDS/SmartReview-Omnitrade.git
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the project:**
-   ```bash
-   python main.py
-   ```
-
-***
-
-## Usage
-
-- Upload customer review data as CSV or connect to live feedback sources.
-- Access sentiment insights via the dashboard.
-- Generate and download reports for Omnitrade products or services.
-
-***
-
-
 ## License
 
 This project is licensed under the MIT License.
